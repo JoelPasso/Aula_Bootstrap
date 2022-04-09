@@ -1,0 +1,33 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.navbar{
+    background-color:aqua;
+}
+.quem-somos{
+    background-color: cornflowerblue;
+    text-align: center;
+    border: 5px;
+    color: white;
+}
+.margin{
+    padding: 50px;
+    border: 10px;
+}
+.rounded-circle{
+    width: 400px;
+    height: 400px;
+}
+#parceiros{
+    background-color:yellowgreen;
+}
+.texto{
+    text-align: justify;
+    padding: auto;
+}
+.bg-flooter{
+    background-color: black;
+    text-decoration-color: white;
+    padding: 20px;
+    color: white;
+}
